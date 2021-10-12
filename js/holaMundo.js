@@ -26,3 +26,11 @@ document.write("<br>Comision: "+comision)
 
 const anio = 2021
 document.write("<br>Año: "+anio)
+
+// alert("Buenos dias")
+
+let x = 3
+let y = 5
+
+document.write("<br>Suma: "+(x+y))
+
